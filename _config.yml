@@ -21,7 +21,7 @@ repository               : "tanliming-daniel/tanliming-daniel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "WechatIMG14.jpg"
+  avatar           : "WechatIMG14.png"
   name             : "Liming Tan"
   pronouns         : "he/him"  
   bio              : 
