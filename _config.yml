@@ -12,7 +12,7 @@ title                    : "Liming Tan's homepage"
 title_separator          : "-"
 name                     : &name "Liming Tan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tanliming-daniel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tanliming-daniel/tanliming-daniel.github.io"
 
